@@ -1,8 +1,10 @@
 ***Global Fuel Prices and Taxation Trends (2020–2026)***
+
 An interactive Tableau dashboard analyzing global fuel prices, taxation patterns, and country-wise comparisons of petrol, diesel, LPG, and Brent crude oil.
 
 
 **Features**
+
 Petrol Price Comparison: Compare petrol prices across different countries.
 Diesel Price Comparison: Analyze country-wise diesel prices.
 LPG Price Comparison: Explore LPG prices across countries.
@@ -21,9 +23,11 @@ https://drive.google.com/file/d/1JJtLyFV1XhiaWRoVULSSMAIDzd2btIT3/view?usp=drive
 
 
 
-Tools Used
+**Tools Used**
+
 Tableau Public
 Data Visualization
 Data Analysis
-Project Period
+
+**Project Period**
 2020–2026
